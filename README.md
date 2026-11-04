@@ -75,7 +75,7 @@ After the result, the program asks **Do you want to continue? (y/n)**. Choosing 
 
 ---
 
-## Sample Output
+## Output Screenshots
 
 ### Addition
 ```
