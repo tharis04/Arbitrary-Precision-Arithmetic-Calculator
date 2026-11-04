@@ -11,7 +11,7 @@ A command-line calculator in **C** that performs arithmetic on numbers of **any 
 - Addition, subtraction, multiplication and division of very large numbers
 - Negative results in subtraction (e.g. `33 - 55 = -22`)
 - Works from the command line, then lets you continue with new input
-- **Custom reboot feature:** after each calculation the user can restart the calculator with a simulated reboot (message, progress bar up to 100%, and a success message) and then enter new numbers without re-running the program
+- **Custom reboot feature(my own implementation):** after each calculation the user can restart the calculator with a simulated reboot (message, progress bar up to 100%, and a success message) and then enter new numbers without re-running the program
 - Memory of every list is freed after each calculation
 
 ## How it works
