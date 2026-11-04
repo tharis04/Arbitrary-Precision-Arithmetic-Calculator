@@ -81,7 +81,7 @@ After the result, the program asks **Do you want to continue? (y/n)**. Choosing 
 ```
 12345678234678456789 + 2346789234567 = 12345680581467691356
 ```
-![Addition](screenshots/addition.png)
+![Addition](Addition_output.png)
 
 ### Subtraction
 ```
