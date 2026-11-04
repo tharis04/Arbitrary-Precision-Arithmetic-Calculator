@@ -87,19 +87,19 @@ After the result, the program asks **Do you want to continue? (y/n)**. Choosing 
 ```
 2345678975315656886 - 12345678567891234567678902345678 = -12345678567888888888703586688792
 ```
-![Subtraction](screenshots/subtraction.png)
+![Subtraction](subtraction_output.png)
 
 ### Multiplication
 ```
 23456788942675567 x 234567890753123456000000 = 5502209506124596660914038905799552000000
 ```
-![Multiplication](screenshots/multiplication.png)
+![Multiplication](multiplication_output.png)
 
 ### Division
 ```
 34567834567875396 / 234567842 = 147368174
 ```
-![Division](screenshots/division.png)
+![Division](screenshots/Division_output.png)
 
 ---
 
