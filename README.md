@@ -99,7 +99,7 @@ After the result, the program asks **Do you want to continue? (y/n)**. Choosing 
 ```
 34567834567875396 / 234567842 = 147368174
 ```
-![Division](screenshots/Division_output.png)
+![Division](Division_output.png)
 
 ---
 
